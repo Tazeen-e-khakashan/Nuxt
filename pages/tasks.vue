@@ -4,37 +4,38 @@
    <!--    <Logo /> -->
    <img src="~/assets/lmespic.jpg" style="margin-left:34%">
       <h1 class="title" style="color:blue">
-        <nuxt-link to="tasks" >lmestasks..</nuxt-link>  
+        <nuxt-link to="tasks" >lmestasks..</nuxt-link>
       </h1>
 
 
-      
-      
 
-        <nuxt-link to="task1" ><h3>1. asyncData</h3></nuxt-link>  
-        <nuxt-link to="task2" ><h3>2. Mounted   </h3></nuxt-link>  
-        <nuxt-link to="task3" ><h3>3. Middleware </h3></nuxt-link>  
-        <nuxt-link to="task4" ><h3>4. Dynamic routing ( params ) </h3></nuxt-link> 
-        <nuxt-link to="task5" ><h3>5. Query Params    </h3></nuxt-link> 
-        <nuxt-link to="task6" ><h3>6. Loader Customisation   </h3></nuxt-link> 
-        <nuxt-link to="task7" ><h3>7. Layouts   </h3></nuxt-link> 
-        <nuxt-link to="task8" ><h3>8. CSS</h3></nuxt-link> 
-        <nuxt-link to="task9" ><h3>9. Route Transitions</h3></nuxt-link> 
-        <nuxt-link to="task10" ><h3>10. I18n </h3></nuxt-link> 
-        
-         
-     
-     
-     
-     
-     
-     
-     
-     
-     
 
-     
-     
+
+        <nuxt-link to="posts" ><h3>*Skill Share Course Basics* </h3></nuxt-link>
+        <nuxt-link to="task1" ><h3>1. asyncData</h3></nuxt-link>
+        <nuxt-link to="task2" ><h3>2. Mounted   </h3></nuxt-link>
+        <nuxt-link to="task3" ><h3>3. Middleware </h3></nuxt-link>
+        <nuxt-link to="task4" ><h3>4. Dynamic routing ( params ) </h3></nuxt-link>
+        <nuxt-link to="task5" ><h3>5. Query Params    </h3></nuxt-link>
+        <nuxt-link to="task6" ><h3>6. Loader Customisation   </h3></nuxt-link>
+        <nuxt-link to="task7" ><h3>7. Layouts   </h3></nuxt-link>
+        <nuxt-link to="task8" ><h3>8. CSS</h3></nuxt-link>
+        <nuxt-link to="task9" ><h3>9. Route Transitions</h3></nuxt-link>
+        <nuxt-link to="task10" ><h3>10. I18n </h3></nuxt-link>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
