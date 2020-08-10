@@ -11,7 +11,13 @@
 
 
 
-        <nuxt-link to="posts" ><h3>*Skill Share Course Basics* </h3></nuxt-link>
+        <nuxt-link to="" ><h3>*Skill Share Course Basics* </h3></nuxt-link>
+        <nuxt-link to="posts" ><h3>*1.Posts* </h3></nuxt-link>
+        <nuxt-link to="comments" ><h3>*2.Commemts* </h3></nuxt-link>
+        <nuxt-link to="comments" ><h3>*3.Albums* </h3></nuxt-link>
+        <nuxt-link to="comments" ><h3>*4.Photos* </h3></nuxt-link>
+        <nuxt-link to="comments" ><h3>*5.Todos* </h3></nuxt-link>
+        <nuxt-link to="comments" ><h3>*6.Users* </h3></nuxt-link>
         <nuxt-link to="task1" ><h3>1. asyncData</h3></nuxt-link>
         <nuxt-link to="task2" ><h3>2. Mounted   </h3></nuxt-link>
         <nuxt-link to="task3" ><h3>3. Middleware </h3></nuxt-link>
