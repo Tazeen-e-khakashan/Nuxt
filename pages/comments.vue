@@ -38,8 +38,8 @@ export default {
         });
 
     },
-     addUser() {
-      axios.post('https://jsonplaceholder.typicode.com/comments', {
+     addUser() {https://jsonplaceholder.typicode.com/comments
+      axios.post('', {
         name: this.newUser
       })
         .then((response) => {
